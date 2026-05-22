@@ -1,0 +1,1 @@
+Mostrar ventana de diálogo de confirmación en JavaFX.
